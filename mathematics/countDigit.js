@@ -28,7 +28,7 @@ export default function countDigits(num) {
 }
 
 /**
- * Time Complexity: log(n)
- * Space Complexity: log(n)
+ * Time Complexity: O(log(N))
+ * Space Complexity: O(log(N))
  */
 
